@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ff5722</color>
+    <color name="primary_light">#EF9A9A</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="teal_200">#eeeeee</color>
+    <color name="teal_700">#616161</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="icons">#FFFFFFFF</color>
+    <color name="accent_color">#FFFFFFFF</color>
+    <color name="button_inicio">#66bb6a</color>
+    <color name="button_pausa">#e6ee9c</color>
+</resources>

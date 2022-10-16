@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="configuracion">tiempos</string>
+    <string name="control">control</string>
+    <string name="estadisticas">estadisticas</string>
+    <string name="notas">notas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="boton_selector">DropdownMenu</string>
+    <string name="select">Elegir</string>
+</resources>
