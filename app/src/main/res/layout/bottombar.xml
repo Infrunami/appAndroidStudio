@@ -8,8 +8,10 @@
         android:id="@+id/menu"
         android:background="@color/primary_light"
         android:layout_width="match_parent"
+        android:backgroundTint="@color/primary"
         android:layout_height="wrap_content"
-        app:tabIndicatorColor="#AE9595">
+        android:outlineAmbientShadowColor="@color/primary_light"
+        app:tabIndicatorColor="#AE9E95">
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/tab1"
